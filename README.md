@@ -2,9 +2,9 @@
 
 Flutter Task.
 
-![](/ReadmeImages/1.png)
-![](/ReadmeImages/2.png)
-![](/ReadmeImages/3.png)
-![](/ReadmeImages/4.png)
-![](/ReadmeImages/5.png)
-![](/ReadmeImages/6.png)
+![](/ReadmeImages/1.jpg)
+![](/ReadmeImages/2.jpg)
+![](/ReadmeImages/3.jpg)
+![](/ReadmeImages/4.jpg)
+![](/ReadmeImages/5.jpg)
+![](/ReadmeImages/6.jpg)
